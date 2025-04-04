@@ -1,4 +1,11 @@
-## Hi there 👋
+# Ramon herminio perez plama
+cursos tomados en pilares
+de html
+ccs
+python
+jabascrip
+me gustan la pizas
+
 
 <!--
 **alfapalma/alfapalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
